@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1344885464442
+Build-Jdk: 1.6.0_33
+Built-By: arman
+Bundle-ManifestVersion: 2
+Bundle-Name: cBio Portal Client
+Bundle-SymbolicName: org.mskcc.cbioportal-client
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.mskcc.mondrian.client;version="0.0.1.SNAPSHOT"
+Import-Package: org.mskcc.mondrian.client
+Tool: Bnd-1.50.0
